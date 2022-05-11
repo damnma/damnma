@@ -91,5 +91,6 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=default&font=Redressed)
-
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+</a>
